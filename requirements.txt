@@ -1,3 +1,5 @@
 ipykernel
 pycryptodome
 cryptography
+gostcrypto
+numpy
